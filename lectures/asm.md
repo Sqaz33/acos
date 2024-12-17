@@ -39,3 +39,13 @@
   * hard to make out-of-order optimization
 
 Машинное слово - длинна одной инструкции.
+
+![1734435620620](images/asm/1734435620620.png)
+
+* Application Binary Interface - convention on function calls and terminal data representation.
+
+# Simulation
+
+* Application-Level Code Translation
+  * To run code other CPU on the same operating system. (Apple Rosetta, Linux qemu-user).
+  * Complete System Emulation (qemu-system-Name).
