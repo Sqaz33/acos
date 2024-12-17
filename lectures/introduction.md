@@ -61,5 +61,3 @@ Start services in concurent way.
 * No associated terminal. (nohup - перехват SIGHUP)
 * Output sent by mail.
 * No check for single-instance.
-
-##

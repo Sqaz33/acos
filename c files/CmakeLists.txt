@@ -1,0 +1,3 @@
+project(acos)
+
+add_executable(main main.cpp)
