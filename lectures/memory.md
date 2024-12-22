@@ -21,7 +21,7 @@
 
 * Section .plt - code for 'far away' jumps
 * Section .got.pt and .got - real addresses of function and static variables.
-* Any library might be lacated at arbitary location.
+* Any library might be lacated at arbitrary location.
 
 # /lib/ld-linux.so
 

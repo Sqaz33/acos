@@ -64,3 +64,7 @@
 # Proc
 
 cat /proc/[PID]/[file_name]
+
+# valgrind
+
+valgrind --tool=...
