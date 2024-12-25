@@ -68,3 +68,7 @@ cat /proc/[PID]/[file_name]
 # valgrind
 
 valgrind --tool=...
+
+# strace
+
+strace [program name]

@@ -23,7 +23,7 @@
 
 * Application
 * High-Level Libraries and Frameworks
-* libstdc++ (Linux, *BSD), msvcp.dll (Windows) or libc++ (MacOS)
+* libstdc++ (Linux, *BSD), msvcp.dll (Windows) or libc++ (MacOS)ё
 
 *Implements POSIX standart API:*
 
