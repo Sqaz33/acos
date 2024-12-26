@@ -11,7 +11,7 @@
   * MT/s (Mega Transfers Per Second) - twice as clock
   * bandwidth: several bits at a time
 
-# Process Address Spacej
+# Process Address Space
 
 * Any value that matches pointer size
 * Each process has it's own memory
@@ -24,7 +24,7 @@
 * 3-Level Memory Paging (x86+PAE)
 * 4-level Memory Paging (x86_64)
 
-# x86-32 Memory Paging
+# x86-32 Memory Paging (Таблица страниц)
 
 ![1735058651272](images/allocation_of_memory/1735058651272.png)
 
