@@ -72,3 +72,7 @@ valgrind --tool=...
 # strace
 
 strace [program name]
+
+# fg
+
+продолжить suspend
