@@ -68,13 +68,13 @@ with O_NONBLOCK.
 # Kernel Queue
 
 * FreeBSD Kernel Queue (kqueue, kevent).
-* Linux epoll (epol_create, epoll_ctl, epoll_wait).
+* Linux epoll (epol_create, epoll_ctl, epoll_wait)
 
 # Compability Problems In UNIX World
 
 * kqueue v.s. epoll.
 * jail v.s. cgroup + unshare.
-  *and other non-POSIX subsistems *
+  *and other non-POSIX subsistems*
 
 **Solutions:**
 
