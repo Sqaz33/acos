@@ -2,3 +2,5 @@
 build/
 *.out
 ./example.txt
+*.so
+*.o
