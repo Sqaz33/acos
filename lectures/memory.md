@@ -30,5 +30,5 @@
   1. Load (map) program into memory.
   2. Find and load all dependent libraries /etc/ld.co.conf and LD_LIBRARY_PATH.
   3. Allocate memory for stack.
-  4. Setub GOT tables.
+  4. Setup GOT tables.
   5. Jump to program Entry Point.

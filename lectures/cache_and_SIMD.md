@@ -35,3 +35,13 @@
 * L2 - core related cache.
 * L3 - common cache for all cores.
 * /sys/devices/system/cpu/*
+
+# Ways of associativity
+
+![1737705804974](images/cache_and_SIMD/1737705804974.png)
+
+Количество кеш-линий в наборе.
+
+# Cache-Friendly Software Design
+
+![1737705907223](images/cache_and_SIMD/1737705907223.png)

@@ -9,7 +9,7 @@
 int main() {
     pid_t pid = fork();
     if (0 == pid) {
-        chdir("./c files");
+        chdir("./c-files");
         int fd = open("out.txt", O_WRONLY|O_CREAT|O_TRUNC, 0644);
         dup2(fd, 1); close(fd);
         execlp("ls", "ls", "-l", NULL);

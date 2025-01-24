@@ -12,5 +12,5 @@ void main() {
 
     float res = 0.0f;
     _mm_store_ss(&res, res_vector);
-    printf("%f\n", res);
-}
+        printf("%f\n", res);
+    }
