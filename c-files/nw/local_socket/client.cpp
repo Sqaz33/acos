@@ -18,7 +18,7 @@ int main() {
     strcpy(servAddr.sun_path, sp);
     
     int sfd = connect(sock, (sockaddr*)(&servAddr), 
-                        sizeof(servAddr) - 1);
+                        sizeof(servAddr));
     if (-1 == sfd) {
         close(sock);
         return 1;

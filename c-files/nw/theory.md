@@ -12,7 +12,6 @@
 
 ![1758277891302](images/theory/1758277891302.png)
 
-
 # Socket settings
 
 ### Client role:
@@ -28,3 +27,8 @@
 ![1758278538790](images/theory/1758278538790.png)
 
 ![1758278692801](images/theory/1758278692801.png)
+
+
+# Network
+
+## ARP (Address Resolution Protocol)
